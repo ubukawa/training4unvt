@@ -34,11 +34,31 @@ List of the basic trainings for UNVT beginner
   - Simple data conversion from shape file
     - Use of gdal to convert shape files into geojson
     - GeoJSON files are converted into vector tile with tippecanoe
-  - 
+  - Undertanding Tippecanoe function
+    - tile-join (mbtiles)
+    - PMTiles export (ver 2.17 or later)
 
 - Vector tile hosting
-- Vector tile styling
+  - Static hosting with GitHub page (pbf format)
+  - Hosting mbtiles with nodejs/express and deliver pbf from mbtiles
+  - (advanced) Azure AD authentication (msal)
 
+- Vector tile styling
+  - Creating a simple style with maputnik
+  - Understanding mapbox/MapLibre style specification
+    - source
+    - sprites
+    - glyphs
+    - style layers (understanding filter is important)
+  - Understanding some limitations of each libraries in style interpretation
+    - e.g. Esri ArcGIS online, QGIS, etc...
+  - Use of unvt/charites for efficient style editing
+    - Importing an existing style json 
+    - Editing style as a series of YAML files
+    - Live preview in localhost
+    - Exporting json from YAML files
+    
 - Others
   - Use of Sphinx
   - Markdown writing
+  - PostgreSQL/PostGIS 
