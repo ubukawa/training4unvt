@@ -9,6 +9,7 @@ List of the basic trainings for UNVT beginner
   - Editing contents and push them
   - Trying ".gitignore" 
   - Cloning a repository with git
+
 - nodejs
   - Installing nodejs in windows PC
   - Running a simple script with nodejs
@@ -22,10 +23,22 @@ List of the basic trainings for UNVT beginner
 
 - Docker
   - Understand the overview of Docker
+    - Docker can provide virtual linux environment in Windows PC that can run tippecanoe
   - Checking the Docker license
   - Pulling the unvt/nanban image
     - Ubuntu based container with necessary GIS tools
     - felt/tippecanoe is included
   - Creating a container from unvt/nanban
 
-- Vector Tile
+- Vector tile production (data conversion)
+  - Simple data conversion from shape file
+    - Use of gdal to convert shape files into geojson
+    - GeoJSON files are converted into vector tile with tippecanoe
+  - 
+
+- Vector tile hosting
+- Vector tile styling
+
+- Others
+  - Use of Sphinx
+  - Markdown writing
