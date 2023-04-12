@@ -62,3 +62,4 @@ List of the basic trainings for UNVT beginner
   - Use of Sphinx
   - Markdown writing
   - PostgreSQL/PostGIS 
+  - Raspberry Pi
