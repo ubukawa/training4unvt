@@ -68,9 +68,19 @@ List of the basic trainings for UNVT beginner
     - Editing style as a series of YAML files
     - Live preview in localhost
     - Exporting json from YAML files
+    - references
+      - https://qiita.com/T-ubu/items/6588ebff2af537f6a9b5
+      - https://qiita.com/T-ubu/items/c44cd6e079b8e1a6706f 
+      - https://qiita.com/T-ubu/items/33cb4617a4db468eb208
+      - https://qiita.com/T-ubu/items/e6794b81e45dea34548c
     
 - Others
   - Use of Sphinx
+    - e.g. https://qiita.com/T-ubu/items/1bf7514ec43a3d1c6eb4
   - Markdown writing
   - PostgreSQL/PostGIS 
+    - e.g. https://qiita.com/T-ubu/items/2a097fd7e880bfbfa10c 
   - Raspberry Pi
+    - e.g. https://qiita.com/T-ubu/items/f5cb639b4c337ef1050d
+    - e.g. https://qiita.com/T-ubu/items/906a8970da5dbec73cec
+    - e.g. https://qiita.com/T-ubu/items/ee48cfa1ef7d5fce70cc 
