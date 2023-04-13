@@ -39,6 +39,7 @@ List of the basic trainings for UNVT beginner
     - e.g. https://qiita.com/T-ubu/items/76a60bfd4a27d11521e2 (with Docker)
 - Undertanding Tippecanoe function
     - tile-join (mbtiles)
+      - e.g. an article by @hfu https://qiita.com/hfu/items/144bb4384226e7c30000 
     - PMTiles export (ver 2.17 or later)
       - e.g. https://qiita.com/T-ubu/items/93d84b9d4bf5be608fda (this example worked with unvt/kata)
 
