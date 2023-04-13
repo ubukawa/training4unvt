@@ -84,3 +84,7 @@ List of the basic trainings for UNVT beginner
     - e.g. https://qiita.com/T-ubu/items/f5cb639b4c337ef1050d
     - e.g. https://qiita.com/T-ubu/items/906a8970da5dbec73cec
     - e.g. https://qiita.com/T-ubu/items/ee48cfa1ef7d5fce70cc 
+  - RGB Elevation tile creation for 3D terrain 
+    - e.g. https://qiita.com/T-ubu/items/c7bb5697b51f245ef163
+  - Text fonts
+    - e.g. https://qiita.com/T-ubu/items/f2a2084778e456bc8057  
