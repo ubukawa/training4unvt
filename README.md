@@ -47,6 +47,12 @@ List of the basic trainings for UNVT beginner
   - Static hosting with GitHub page (pbf format)
   - Hosting mbtiles with nodejs/express and deliver pbf from mbtiles
     - e.g. https://qiita.com/T-ubu/items/545d9f995ef7496a2ec4
+  - Creating a webmap with MapLibre GL JS 
+    - e.g. https://qiita.com/T-ubu/items/5092eabb6d1dae3cc6e4
+    - e.g. https://qiita.com/T-ubu/items/ce988005955da637ab06
+    - e.g. https://qiita.com/T-ubu/items/59ce878b2b19d5bad141
+    - e.g. (plugin) https://qiita.com/T-ubu/items/a311d8516288971005fa
+    - e.g. (plugin) https://qiita.com/T-ubu/items/b6755b062effbcb896c5
   - (advanced) Azure AD authentication (msal)
     - e.g. https://qiita.com/T-ubu/items/f7147def371b49cb232c (I think this article was not well written.)
 
